@@ -7,6 +7,14 @@
 
 ---
 
+## 프로젝트 소개
+- Youtube 영상 crawling
+- 영상 제어 API 구현
+- 제스처 분류 API 구현
+- Youtube 영상과 안드로이드 내장 카메라 concurrent execution
+
+---
+
 ## 목차
 
 1. [프로젝트 배경](#프로젝트-배경)
